@@ -1,0 +1,6 @@
+1->
+2->
+A->
+    1. docker build -t testing/welcome .
+    2. docker run -p 8000:5000 testing/welcome
+B. docker-compose up --build
