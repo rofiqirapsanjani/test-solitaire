@@ -1,4 +1,4 @@
-# test-solitaire
+# test-solitaire - Achmad Rofiqi Rapsanjani
 
 ## jawaban no 2
 
