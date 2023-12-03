@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  mynodeapp:
+    image: localtesting/welcome
+    ports:
+      - "8000:5000"
